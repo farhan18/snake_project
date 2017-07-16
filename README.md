@@ -1,2 +1,2 @@
 # snake_project
-im built with p5.js
+im build with p5.js and Project The Coding Train
